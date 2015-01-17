@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.data:spring-cql:1.2.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-cql/1.2.0.BUILD-SNAPSHOT/spring-cql-1.2.0.BUILD-20150108.081006-37.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-cql/1.2.0.BUILD-SNAPSHOT/spring-cql-1.2.0.BUILD-20150108.081006-37-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-cql/1.2.0.BUILD-SNAPSHOT/spring-cql-1.2.0.BUILD-20150108.081006-37-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
